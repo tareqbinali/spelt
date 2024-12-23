@@ -1,4 +1,4 @@
-# spelt
+![Description of image](https://github.com/username/spelt/blob/main/tareq_ctg.jpg)
 # 👋 Hi, I'm Tareq!
 🎯 **Building creative solutions with code**  
 🌍 [Website/Portfolio](https://www.tarahz.com) | 📫 [Contact Me](mailto:m.tareq@gmail.com)
