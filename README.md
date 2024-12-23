@@ -1,4 +1,5 @@
-![Description of image](https://github.com/tareqbinali/spelt/blob/main/tareq_ctg.jpg)
+<img src="https://github.com/tareqbinali/spelt/blob/main/tareq_ctg.jpg" alt="Tareq's Profile Image" width="300"/>
+
 # 👋 Hi, I'm Tareq!
 🎯 **Building creative solutions with code**  
 🌍 [Website/Portfolio](https://www.tarahz.com) | 📫 [Contact Me](mailto:m.tareq@gmail.com)
