@@ -4,7 +4,7 @@
 🌍 [Website/Portfolio](https://www.tarahz.com) | 📫 [Contact Me](mailto:m.tareq@gmail.com)
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **[Spelt](https://github.com/username/spelt)**
+- 🔭 I’m currently working on **[Spelt](https://github.com/tareqbinali/spelt)**
 - 🌱 I’m learning **GitHub Actions, React**
 - 💬 Ask me about **Data analysis, Deep learning, PCB design**
 - ⚡ Fun fact: I love hiking and swimming!
